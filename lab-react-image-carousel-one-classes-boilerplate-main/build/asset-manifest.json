@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29e38f27.css",
+    "main.js": "/static/js/main.437ac701.js",
+    "static/media/eyes.jpg": "/static/media/eyes.061ee4c60fd992e39700.jpg",
+    "static/media/girlface.jpg": "/static/media/girlface.9f8dcf9dbf16bb3d6d66.jpg",
+    "static/media/faces.jpg": "/static/media/faces.79f0da2928bce4260e98.jpg",
+    "index.html": "/index.html",
+    "main.29e38f27.css.map": "/static/css/main.29e38f27.css.map",
+    "main.437ac701.js.map": "/static/js/main.437ac701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e38f27.css",
+    "static/js/main.437ac701.js"
+  ]
+}
